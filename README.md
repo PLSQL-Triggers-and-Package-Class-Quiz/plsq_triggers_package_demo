@@ -33,10 +33,7 @@ Demonstrate understanding of PL/SQL Triggers and Package by solving a realistic 
  - If failures > 2 → insert a record into `security_alerts`
 
 ### Results Screenshots
-
-img
-img 
-img
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/triggers.JPG?raw=true)
 
 ## Question 2
 
@@ -77,6 +74,13 @@ img
    count_admitted.
 ### Results Screenshots
 
-img
-img 
-img
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/pkg.JPG?raw=true)
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/results_1_q2.JPG?raw=true)
+
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/results_2_q2.JPG?raw=true)
+
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/results_3_q2.JPG?raw=true)
+
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/results_4_q2.JPG?raw=true)
+
+![Screenshot](https://github.com/PLSQL-Triggers-and-Package-Class-Quiz/plsq_triggers_package_demo/blob/main/results_5_q2.JPG?raw=true)
